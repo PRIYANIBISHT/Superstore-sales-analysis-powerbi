@@ -72,6 +72,6 @@ It helps visualize **sales trends, profits, product performance, and customer se
 
 ## 📌 Author
 Priyani Bisht  
-- [LinkedIn Profile](www.linkedin.com/in/priyani-bisht-)  
+- [LinkedIn Profile](https://www.linkedin.com/in/priyani-bisht-13a478266/)  
 
 ---
